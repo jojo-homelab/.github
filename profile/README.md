@@ -41,16 +41,29 @@ AI              Claude Code · Claude API
 
 ---
 
-## Certifications in Progress
+## Certifications
 
+**Achieved**
 - KCNA — Kubernetes and Cloud Native Associate
+- AZ-900 — Microsoft Azure Fundamentals
+
+**In Progress**
 - CKA — Certified Kubernetes Administrator
+- CLF-C02 — AWS Certified Cloud Practitioner
 - Path: **Kubestronaut**
+
+---
+
+## Open to Opportunities
+
+I'm open to **DevOps, Platform Engineering, and Cloud Native** roles — particularly those involving Kubernetes, cloud infrastructure, and production-grade systems.
+
+📬 [joel.plourde@linux.com](mailto:joel.plourde@linux.com)
 
 ---
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/joel-plourde) · Canada
+[LinkedIn](https://linkedin.com/in/joel-plourde) · [joel.plourde@linux.com](mailto:joel.plourde@linux.com) · Canada
 
 </div>
